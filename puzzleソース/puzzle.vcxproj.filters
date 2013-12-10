@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Block">
+      <UniqueIdentifier>{1fe88070-90b2-4afa-9630-dba73c99af43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cursor">
+      <UniqueIdentifier>{9791da62-ab88-4f15-8587-30ac2baf18d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Fps">
+      <UniqueIdentifier>{abde4840-e1dc-418b-8470-593b8222fa22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Stage">
+      <UniqueIdentifier>{738b47cb-e261-40fc-b5bd-9df735cd1d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\PadState">
+      <UniqueIdentifier>{958677c1-7ab0-42a1-92cf-9cbc98917d2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Position">
+      <UniqueIdentifier>{4508e125-333a-4d9b-bac8-931633f658a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="clr_check.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBattle2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLoad.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTitle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>ソース ファイル\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor.cpp">
+      <Filter>ソース ファイル\Cursor</Filter>
+    </ClCompile>
+    <ClCompile Include="Fps.cpp">
+      <Filter>ソース ファイル\Fps</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>ソース ファイル\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="PadState.cpp">
+      <Filter>ソース ファイル\PadState</Filter>
+    </ClCompile>
+    <ClCompile Include="Position.cpp">
+      <Filter>ソース ファイル\Position</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameMain.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>ソース ファイル\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>ソース ファイル\Cursor</Filter>
+    </ClInclude>
+    <ClInclude Include="Fps.h">
+      <Filter>ソース ファイル\Fps</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>ソース ファイル\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="PadState.h">
+      <Filter>ソース ファイル\PadState</Filter>
+    </ClInclude>
+    <ClInclude Include="Position.h">
+      <Filter>ソース ファイル\Position</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
